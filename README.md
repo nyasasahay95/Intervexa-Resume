@@ -4,9 +4,9 @@ AI-powered Resume Screening and Interview Preparation platform.
 
 ## Team Members
 
+- Nyasa
+- Shreya Gupta
 - Priyanshu Roy
-- Member 2 Name
-- Member 3 Name
 
 ## Technologies Used
 
